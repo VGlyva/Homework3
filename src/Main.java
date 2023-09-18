@@ -142,9 +142,9 @@ public class Main {
         float differenceYearMasha = newYearMasha - yearMasha;
         float differenceYearDenis = newYearDenis - yearDenis;
         float differenceYearKristina = newYearKristina - yearKristina;
-        System.out.println("Маша теперь получает " + newMonthMasha + " рублей. Годовой доход вырос на " + differenceYearMasha + " рублей");
-        System.out.println("Денис теперь получает " + newMonthDenis + " рублей. Годовой доход вырос на " + differenceYearDenis + " рублей");
-        System.out.println("Кристина теперь получает " + newMonthKristina + " рублей. Годовой доход вырос на " + differenceYearKristina + " рублей");
+        System.out.println("Маша теперь получает " + newMonthMasha + " рублей. Годовой доход вырос на " + differenceYearMasha + " рублей.");
+        System.out.println("Денис теперь получает " + newMonthDenis + " рублей. Годовой доход вырос на " + differenceYearDenis + " рублей.");
+        System.out.println("Кристина теперь получает " + newMonthKristina + " рублей. Годовой доход вырос на " + differenceYearKristina + " рублей.");
         System.out.println();
 
     }
